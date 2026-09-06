@@ -1,0 +1,10 @@
+/* Personalização do projeto académico - Serviços de Pet Shop */
+.petcare-highlight { font-weight: 700; }
+.form-status { margin-top: 15px; font-weight: 600; }
+.form-status.success { color: #2e7d32; }
+.form-status.error { color: #c62828; }
+.form-error { display:block; margin-top:6px; font-size:14px; color:#c62828; }
+.form-box input.input-error,
+.form-box textarea.input-error,
+.form-control.input-error { border:1px solid #c62828 !important; }
+.submit-info .btn { margin-right: 10px; }
